@@ -20,7 +20,7 @@
     <img align="center" width="26px" src="https://github.com/muskan272002/muskan272002/blob/main/New/linkedin.jpeg" />
 
  
- &nbsp; &nbsp; < href="mailto:muskanpatel272002@gmail.com">
+ &nbsp; &nbsp; <a href="mailto:muskanpatel272002@gmail.com">
     <img align="center" width="26px" src="https://github.com/muskan272002/muskan272002/blob/main/New/gmail.png" />
 
 
