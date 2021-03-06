@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm [Muskan!](https://github.com/muskan272002)<img height="50px" src="https://github.com/muskan272002/muskan272002/blob/main/New/Hello.gif">
 
-<!--
-**muskan272002/muskan272002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am an enthusiastic student 🙂
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I am an undergraduate learning Computer Science and Engineering at MNNIT, Allahabad.
+
+- 🌱 I am looking forward to learn Python.
+
+- 📱 I am currently working on Web Development.
+
+- 👯 I'm looking forward to collaborate with other content creators.
+
+- 😄 Pronouns: She/Her
+
+- ⚡ Fun fact: I love to dance and sing.
+
+### Visitors Count :eyes:
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=muskan272002)
+
+<!-- <img align="left" src = "https://profile-counter.glitch.me/muskan272002/count.svg" alt ="Loading"> -->
