@@ -18,7 +18,7 @@
 ### Contact :point_down:
 &nbsp; &nbsp; <a href="https://www.linkedin.com/in/muskan-patel-8b875b205/">
     <img align="center" width="26px" src="https://github.com/muskan272002/muskan272002/blob/main/New/linkedin.jpeg" />
- </a>  &nbsp; &nbsp; &nbsp; &nbsp;
+ </a>  ;
  
 <a href="mailto:muskanpatel272002@gmail.com">
     <img align="center" width="26px" src="https://github.com/muskan272002/muskan272002/blob/main/New/gmail.png" />
