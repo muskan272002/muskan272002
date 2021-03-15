@@ -24,8 +24,3 @@
     <img align="center" width="26px" src="https://github.com/muskan272002/muskan272002/blob/main/New/gmail.png" />
 
 
-### Visitors Count :eyes:
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=muskan272002)
-
-<!-- <img align="left" src = "https://profile-counter.glitch.me/muskan272002/count.svg" alt ="Loading"> -->
