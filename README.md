@@ -1,5 +1,7 @@
 ### Hi there, I'm [Muskan!](https://github.com/muskan272002)<img height="50px" src="https://github.com/muskan272002/muskan272002/blob/main/New/Hello.gif">
 
+<img align="right" alt="GIF" width="450px" src="https://github.com/muskan272002/muskan272002/blob/main/New/code.gif"/>
+
 ## I am an enthusiastic student 🙂
 
 
